@@ -1,2 +1,2 @@
 # test_public
-![architecture](_images/DataAPi.png)
+![architecture](_images/DataAPI.png)
